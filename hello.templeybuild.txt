@@ -1,6 +1,6 @@
 hello, this is a test of templey, you can escape things too, watch |file:name.txt|!
 
-the ip address that built this is 5.198.117.21
+the ip address that built this is 0.0.0.0
 
 the arguments when building this were /usr/local/bin/node /Users/thelmgn/Documents/pinghost2/Templey/index.js hello.txt and the nodejs executable is stored at /usr/local/bin/node
 
