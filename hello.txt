@@ -1,0 +1,10 @@
+hello, this is a test of |file:name.txt|, you can escape things too, watch \|file:name.txt|!
+
+the ip address that built this is |http:api.ipify.org|
+
+the arguments when building this were |procarg:all| and the nodejs executable is stored at |procarg:0|
+
+the nodejs version is |command:node -v|
+this files name on disk is |filename:|
+
+|file:layers.txt|

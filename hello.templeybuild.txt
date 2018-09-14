@@ -1,0 +1,11 @@
+hello, this is a test of templey, you can escape things too, watch |file:name.txt|!
+
+the ip address that built this is 5.198.117.21
+
+the arguments when building this were /usr/local/bin/node /Users/thelmgn/Documents/pinghost2/Templey/index.js hello.txt and the nodejs executable is stored at /usr/local/bin/node
+
+the nodejs version is v10.9.0
+
+this files name on disk is hello.txt
+
+you can put tags in other templey scripts like this, we're running from layers.txt and we've got things!
