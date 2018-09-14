@@ -1,6 +1,6 @@
 # Templey
 
-## [on npm for some reason](https://www.npmjs.com/package/tempely)
+## [on npm for some reason](https://www.npmjs.com/package/templey)
 
 ### Using as a standalone script
 
