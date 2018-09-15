@@ -27,7 +27,8 @@ returns processed string
 
 ### Example 
 
-```hello, this is a test of |file:name.txt|, you can escape things too, watch \|file:name.txt|!
+```
+hello, this is a test of |file:name.txt|, you can escape things too, watch \|file:name.txt|!
 
 the ip address that built this is |http:api.ipify.org|
 
@@ -36,11 +37,13 @@ the arguments when building this were |procarg:all| and the nodejs executable is
 the nodejs version is |command:node -v|
 this files name on disk is |filename:|
 
-|file:layers.txt|```
+|file:layers.txt|
+```
 
 would produce
 
-```hello, this is a test of templey, you can escape things too, watch |file:name.txt|!
+```
+hello, this is a test of templey, you can escape things too, watch |file:name.txt|!
 
 the ip address that built this is 0.0.0.0
 
